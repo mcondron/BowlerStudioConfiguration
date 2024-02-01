@@ -8,6 +8,10 @@
       "https://github.com/mcondron/cylinder_mcondron.git",
       "1706805797098"
     ],
+    "https://github.com/mcondron/union_mcondron.git": [
+      "https://github.com/mcondron/union_mcondron.git",
+      "1706807102158"
+    ],
     "https://github.com/mcondron/difference_mcondron.git": [
       "https://github.com/mcondron/difference_mcondron.git",
       "1706805979179"
@@ -26,6 +30,10 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:nameTag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
       "nameTag.groovy"
+    ],
+    "https://github.com/mcondron/union_mcondron.git:union.groovy": [
+      "https://github.com/mcondron/union_mcondron.git",
+      "union.groovy"
     ]
   },
   "BowlerStudioConfigs": {
