@@ -8,6 +8,10 @@
       "BancroftKineticSystemsClass/KineticSystems2024Group01",
       "1706623303070"
     ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "1707233694935"
+    ],
     "https://github.com/mcondron/cylinder_mcondron.git": [
       "https://github.com/mcondron/cylinder_mcondron.git",
       "1706805797098"
@@ -29,6 +33,10 @@
     "https://github.com/mcondron/difference_mcondron.git:difference.groovy": [
       "https://github.com/mcondron/difference_mcondron.git",
       "difference.groovy"
+    ],
+    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
+      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+      "servo.groovy"
     ],
     "https://github.com/mcondron/cylinder_mcondron.git:cylinder.groovy": [
       "https://github.com/mcondron/cylinder_mcondron.git",
