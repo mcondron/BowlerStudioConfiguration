@@ -30,9 +30,17 @@
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
       "SimpleRobot.xml"
     ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:TestKinematics.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
+      "TestKinematics.groovy"
+    ],
     "https://github.com/mcondron/cylinder_mcondron.git:cylinder.groovy": [
       "https://github.com/mcondron/cylinder_mcondron.git",
       "cylinder.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:SimpleRobotKinematics.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
+      "SimpleRobotKinematics.groovy"
     ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:nameTag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
