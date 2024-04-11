@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1712843368770"
+    ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git": [
       "BancroftKineticSystemsClass/KineticSystems2024Group01",
       "1706623303070"
@@ -37,10 +41,6 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:SimpleRobotCad.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
       "SimpleRobotCad.groovy"
-    ],
-    "https://github.com/mcondron/cylinder_mcondron.git:cylinder.groovy": [
-      "https://github.com/mcondron/cylinder_mcondron.git",
-      "cylinder.groovy"
     ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:SimpleRobotKinematics.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
