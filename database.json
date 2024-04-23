@@ -25,7 +25,16 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:SimpleRobot.xml": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
+      "SimpleRobot.xml"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:nameTag.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
+      "nameTag.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
