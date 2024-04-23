@@ -1,12 +1,12 @@
 {
   "workspace": {
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git": [
-      "BancroftKineticSystemsClass/KineticSystems2024Group01",
-      "1706623303070"
-    ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "https://gist.github.com/3f9fef17b23acfadf3f7.git",
       "1707233694935"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git": [
+      "BancroftKineticSystemsClass/KineticSystems2024Group01",
+      "1713882473400"
     ],
     "https://github.com/mcondron/cylinder_mcondron.git": [
       "https://github.com/mcondron/cylinder_mcondron.git",
@@ -25,28 +25,7 @@
   "MenueSettings": {
     "printCSG": true
   },
-  "studio-open-git": {
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:SimpleRobot.xml": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
-      "SimpleRobot.xml"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:TestKinematics.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
-      "TestKinematics.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:SimpleRobotCad.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
-      "SimpleRobotCad.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:SimpleRobotKinematics.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
-      "SimpleRobotKinematics.groovy"
-    ],
-    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:nameTag.groovy": [
-      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
-      "nameTag.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
