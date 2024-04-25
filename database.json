@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "": [
+      "Project ",
+      "1714046564773"
+    ],
     "https://gist.github.com/3f9fef17b23acfadf3f7.git": [
       "https://gist.github.com/3f9fef17b23acfadf3f7.git",
       "1707233694935"
@@ -22,6 +26,22 @@
     ]
   },
   "studio-open-web": {},
+  "katapult": {
+    "gameControllerNames": [
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD",
+      "Dragon",
+      "X-Box",
+      "Game",
+      "XBOX",
+      "Microsoft",
+      "GPD"
+    ]
+  },
   "MenueSettings": {
     "printCSG": true
   },
@@ -29,6 +49,18 @@
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:SimpleRobot.xml": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
       "SimpleRobot.xml"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:KineticSystems2024Group01Kinematics.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
+      "KineticSystems2024Group01Kinematics.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:TestKinematics.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
+      "TestKinematics.groovy"
+    ],
+    "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:SimpleRobotKinematics.groovy": [
+      "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
+      "SimpleRobotKinematics.groovy"
     ],
     "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git:nameTag.groovy": [
       "https://github.com/BancroftKineticSystemsClass/KineticSystems2024Group01.git",
